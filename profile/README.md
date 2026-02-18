@@ -1,7 +1,7 @@
-# MetroV Engine
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=MetroV+Engine;Fast+%E2%80%A2+Modular+%E2%80%A2+Game-focused;Metroid+Specialized+2D+Game+Engine;Focus+on+imagination+not+integration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFAB00&center=true&vCenter=true&width=700&lines=MetroV+Engine;Fast+%E2%80%A2+Modular+%E2%80%A2+Game-focused;Metroid+Specialized+2D+Game+Engine;Focus+on+imagination+not+integration" />
 </p>
 
 ---
